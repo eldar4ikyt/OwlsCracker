@@ -1,7 +1,7 @@
 package ua.owlstudio.owlsguard.models.accepter;
 
-import ua.owlstudio.owlsguard.Logger;
-import ua.owlstudio.owlsguard.models.impl.OwlsConsumer;
+import ua.owlstudio.owlsguard.*;
+import ua.owlstudio.owlsguard.models.impl.*;
 
 public class ConsumerVerifiers {
 
