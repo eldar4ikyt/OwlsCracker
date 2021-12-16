@@ -1,5 +1,5 @@
 # OwlsCracker 
-Genesis cracker owls by WinLocker02 
+Genesis cracker owls by WinLocker02  
 Почему Genesis? - "Крутая" (смешная) проверка через сайт по стринге под нефиговенькой защиткой - ZKM. Народ говорит что легко сломать, но не может (Deus kogda deobf owlslaunchera???)
 
 ![image](https://user-images.githubusercontent.com/48631163/146443810-edfcb2bc-81ef-4c88-b671-da5a2e90115b.png)
